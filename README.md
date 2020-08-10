@@ -1,1 +1,1 @@
-# Clusterin-CreditCard_Segemenation-
+# Clustering-CreditCard_Segemenation-
